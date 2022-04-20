@@ -1,0 +1,13 @@
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.fekleme.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.filmler.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.Form1.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.muhasebe.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.Odeme.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.pekleme.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.yonetici.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.ypaneli.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.csproj.GenerateResource.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Release\SinemaOtomasyon.exe.licenses

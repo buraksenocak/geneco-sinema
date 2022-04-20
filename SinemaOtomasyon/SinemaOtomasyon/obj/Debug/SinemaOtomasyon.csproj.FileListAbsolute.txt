@@ -1,0 +1,149 @@
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Form1.resources
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe.licenses
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CopyComplete
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.filmler.resources
+C:\Users\Burak\source\repos\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Form2.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.filmler.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Form1.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe.licenses
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CopyComplete
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.yonetici.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Odeme.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.fekleme.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.ypaneli.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.muhasebe.resources
+C:\Users\Burak\OneDrive\Masaüstü\Sistem Analizi ve Tasarım Projesi\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pekleme.resources
