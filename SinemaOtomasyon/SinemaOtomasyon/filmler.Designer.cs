@@ -548,6 +548,7 @@
             this.bunifuGroupBox1.Size = new System.Drawing.Size(549, 300);
             this.bunifuGroupBox1.TabIndex = 36;
             this.bunifuGroupBox1.TabStop = false;
+            this.bunifuGroupBox1.Enter += new System.EventHandler(this.bunifuGroupBox1_Enter);
             // 
             // label1
             // 

@@ -1742,6 +1742,7 @@ namespace SinemaOtomasyon
             {
                 BTNA1.BackColor = Color.Red;
                 BTNA1.ForeColor = Color.White;
+                BTNA1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A2");
@@ -1754,6 +1755,7 @@ namespace SinemaOtomasyon
             {
                 BTNA2.BackColor = Color.Red;
                 BTNA2.ForeColor = Color.White;
+                BTNA2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -1767,6 +1769,7 @@ namespace SinemaOtomasyon
             {
                 BTNA3.BackColor = Color.Red;
                 BTNA3.ForeColor = Color.White;
+                BTNA3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -1780,6 +1783,7 @@ namespace SinemaOtomasyon
             {
                 BTNA4.BackColor = Color.Red;
                 BTNA4.ForeColor = Color.White;
+                BTNA4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A5");
@@ -1792,6 +1796,7 @@ namespace SinemaOtomasyon
             {
                 BTNA5.BackColor = Color.Red;
                 BTNA5.ForeColor = Color.White;
+                BTNA5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A6");
@@ -1804,6 +1809,7 @@ namespace SinemaOtomasyon
             {
                 BTNA6.BackColor = Color.Red;
                 BTNA6.ForeColor = Color.White;
+                BTNA6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A7");
@@ -1816,6 +1822,7 @@ namespace SinemaOtomasyon
             {
                 BTNA7.BackColor = Color.Red;
                 BTNA7.ForeColor = Color.White;
+                BTNA7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A8");
@@ -1828,6 +1835,7 @@ namespace SinemaOtomasyon
             {
                 BTNA8.BackColor = Color.Red;
                 BTNA8.ForeColor = Color.White;
+                BTNA8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B1");
@@ -1840,6 +1848,7 @@ namespace SinemaOtomasyon
             {
                 BTNB1.BackColor = Color.Red;
                 BTNB1.ForeColor = Color.White;
+                BTNB1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B2");
@@ -1852,6 +1861,7 @@ namespace SinemaOtomasyon
             {
                 BTNB2.BackColor = Color.Red;
                 BTNB2.ForeColor = Color.White;
+                BTNB2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B3");
@@ -1864,6 +1874,7 @@ namespace SinemaOtomasyon
             {
                 BTNB3.BackColor = Color.Red;
                 BTNB3.ForeColor = Color.White;
+                BTNB3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B4");
@@ -1876,6 +1887,7 @@ namespace SinemaOtomasyon
             {
                 BTNB4.BackColor = Color.Red;
                 BTNB4.ForeColor = Color.White;
+                BTNB4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B5");
@@ -1888,6 +1900,7 @@ namespace SinemaOtomasyon
             {
                 BTNB5.BackColor = Color.Red;
                 BTNB5.ForeColor = Color.White;
+                BTNB5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B6");
@@ -1900,6 +1913,7 @@ namespace SinemaOtomasyon
             {
                 BTNB6.BackColor = Color.Red;
                 BTNB6.ForeColor = Color.White;
+                BTNB6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B7");
@@ -1912,6 +1926,7 @@ namespace SinemaOtomasyon
             {
                 BTNB7.BackColor = Color.Red;
                 BTNB7.ForeColor = Color.White;
+                BTNB7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
@@ -1924,6 +1939,7 @@ namespace SinemaOtomasyon
             {
                 BTNB8.BackColor = Color.Red;
                 BTNB8.ForeColor = Color.White;
+                BTNB8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
@@ -1936,6 +1952,7 @@ namespace SinemaOtomasyon
             {
                 BTNB8.BackColor = Color.Red;
                 BTNB8.ForeColor = Color.White;
+                BTNB8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C1");
@@ -1948,6 +1965,7 @@ namespace SinemaOtomasyon
             {
                 BTNC1.BackColor = Color.Red;
                 BTNC1.ForeColor = Color.White;
+                BTNC1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C2");
@@ -1960,6 +1978,7 @@ namespace SinemaOtomasyon
             {
                 BTNC2.BackColor = Color.Red;
                 BTNC2.ForeColor = Color.White;
+                BTNC2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C3");
@@ -1972,6 +1991,7 @@ namespace SinemaOtomasyon
             {
                 BTNC3.BackColor = Color.Red;
                 BTNC3.ForeColor = Color.White;
+                BTNC3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C4");
@@ -1984,6 +2004,7 @@ namespace SinemaOtomasyon
             {
                 BTNC4.BackColor = Color.Red;
                 BTNC4.ForeColor = Color.White;
+                BTNC4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C5");
@@ -1996,6 +2017,7 @@ namespace SinemaOtomasyon
             {
                 BTNC5.BackColor = Color.Red;
                 BTNC5.ForeColor = Color.White;
+                BTNC5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C6");
@@ -2008,6 +2030,7 @@ namespace SinemaOtomasyon
             {
                 BTNC6.BackColor = Color.Red;
                 BTNC6.ForeColor = Color.White;
+                BTNC6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C7");
@@ -2020,6 +2043,7 @@ namespace SinemaOtomasyon
             {
                 BTNC7.BackColor = Color.Red;
                 BTNC7.ForeColor = Color.White;
+                BTNC7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C8");
@@ -2032,6 +2056,7 @@ namespace SinemaOtomasyon
             {
                 BTNC8.BackColor = Color.Red;
                 BTNC8.ForeColor = Color.White;
+                BTNC8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D1");
@@ -2044,6 +2069,7 @@ namespace SinemaOtomasyon
             {
                 BTND1.BackColor = Color.Red;
                 BTND1.ForeColor = Color.White;
+                BTND1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D2");
@@ -2056,6 +2082,7 @@ namespace SinemaOtomasyon
             {
                 BTND2.BackColor = Color.Red;
                 BTND2.ForeColor = Color.White;
+                BTND2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D3");
@@ -2068,6 +2095,7 @@ namespace SinemaOtomasyon
             {
                 BTND3.BackColor = Color.Red;
                 BTND3.ForeColor = Color.White;
+                BTND3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D4");
@@ -2080,6 +2108,7 @@ namespace SinemaOtomasyon
             {
                 BTND4.BackColor = Color.Red;
                 BTND4.ForeColor = Color.White;
+                BTND4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D5");
@@ -2092,6 +2121,7 @@ namespace SinemaOtomasyon
             {
                 BTND5.BackColor = Color.Red;
                 BTND5.ForeColor = Color.White;
+                BTND5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D6");
@@ -2104,6 +2134,7 @@ namespace SinemaOtomasyon
             {
                 BTND6.BackColor = Color.Red;
                 BTND6.ForeColor = Color.White;
+                BTND6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D7");
@@ -2116,6 +2147,7 @@ namespace SinemaOtomasyon
             {
                 BTND7.BackColor = Color.Red;
                 BTND7.ForeColor = Color.White;
+                BTND7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D8");
@@ -2128,6 +2160,7 @@ namespace SinemaOtomasyon
             {
                 BTND8.BackColor = Color.Red;
                 BTND8.ForeColor = Color.White;
+                BTND8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
 
@@ -2152,6 +2185,7 @@ namespace SinemaOtomasyon
             {
                 BTNA1.BackColor = Color.Red;
                 BTNA1.ForeColor = Color.White;
+                BTNA1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A2");
@@ -2164,6 +2198,7 @@ namespace SinemaOtomasyon
             {
                 BTNA2.BackColor = Color.Red;
                 BTNA2.ForeColor = Color.White;
+                BTNA2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -2177,6 +2212,7 @@ namespace SinemaOtomasyon
             {
                 BTNA3.BackColor = Color.Red;
                 BTNA3.ForeColor = Color.White;
+                BTNA3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -2190,6 +2226,7 @@ namespace SinemaOtomasyon
             {
                 BTNA4.BackColor = Color.Red;
                 BTNA4.ForeColor = Color.White;
+                BTNA4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A5");
@@ -2202,6 +2239,7 @@ namespace SinemaOtomasyon
             {
                 BTNA5.BackColor = Color.Red;
                 BTNA5.ForeColor = Color.White;
+                BTNA5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A6");
@@ -2214,6 +2252,7 @@ namespace SinemaOtomasyon
             {
                 BTNA6.BackColor = Color.Red;
                 BTNA6.ForeColor = Color.White;
+                BTNA6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A7");
@@ -2226,6 +2265,7 @@ namespace SinemaOtomasyon
             {
                 BTNA7.BackColor = Color.Red;
                 BTNA7.ForeColor = Color.White;
+                BTNA7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A8");
@@ -2238,6 +2278,7 @@ namespace SinemaOtomasyon
             {
                 BTNA8.BackColor = Color.Red;
                 BTNA8.ForeColor = Color.White;
+                BTNA8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B1");
@@ -2250,6 +2291,7 @@ namespace SinemaOtomasyon
             {
                 BTNB1.BackColor = Color.Red;
                 BTNB1.ForeColor = Color.White;
+                BTNB1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B2");
@@ -2262,6 +2304,7 @@ namespace SinemaOtomasyon
             {
                 BTNB2.BackColor = Color.Red;
                 BTNB2.ForeColor = Color.White;
+                BTNB2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B3");
@@ -2274,6 +2317,7 @@ namespace SinemaOtomasyon
             {
                 BTNB3.BackColor = Color.Red;
                 BTNB3.ForeColor = Color.White;
+                BTNB3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B4");
@@ -2286,6 +2330,7 @@ namespace SinemaOtomasyon
             {
                 BTNB4.BackColor = Color.Red;
                 BTNB4.ForeColor = Color.White;
+                BTNB4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B5");
@@ -2298,6 +2343,7 @@ namespace SinemaOtomasyon
             {
                 BTNB5.BackColor = Color.Red;
                 BTNB5.ForeColor = Color.White;
+                BTNB5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B6");
@@ -2310,6 +2356,7 @@ namespace SinemaOtomasyon
             {
                 BTNB6.BackColor = Color.Red;
                 BTNB6.ForeColor = Color.White;
+                BTNB6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B7");
@@ -2322,6 +2369,7 @@ namespace SinemaOtomasyon
             {
                 BTNB7.BackColor = Color.Red;
                 BTNB7.ForeColor = Color.White;
+                BTNB7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
@@ -2334,18 +2382,7 @@ namespace SinemaOtomasyon
             {
                 BTNB8.BackColor = Color.Red;
                 BTNB8.ForeColor = Color.White;
-            }
-            koltuk_Var_Mi1.Parameters.Clear();
-            koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
-            koltuk_Var_Mi1.Parameters.AddWithValue("@bs", radioButton3.Text);
-            koltuk_Var_Mi1.Parameters.AddWithValue("@ba", bunifuDropdown1.Text);
-            filmVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            koltukVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            saatVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            if (koltukVarMi > 0 && saatVarMi > 0 && filmVarMi > 0)
-            {
-                BTNB8.BackColor = Color.Red;
-                BTNB8.ForeColor = Color.White;
+                BTNB8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C1");
@@ -2358,6 +2395,7 @@ namespace SinemaOtomasyon
             {
                 BTNC1.BackColor = Color.Red;
                 BTNC1.ForeColor = Color.White;
+                BTNC1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C2");
@@ -2370,6 +2408,7 @@ namespace SinemaOtomasyon
             {
                 BTNC2.BackColor = Color.Red;
                 BTNC2.ForeColor = Color.White;
+                BTNC2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C3");
@@ -2382,6 +2421,7 @@ namespace SinemaOtomasyon
             {
                 BTNC3.BackColor = Color.Red;
                 BTNC3.ForeColor = Color.White;
+                BTNC3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C4");
@@ -2394,6 +2434,7 @@ namespace SinemaOtomasyon
             {
                 BTNC4.BackColor = Color.Red;
                 BTNC4.ForeColor = Color.White;
+                BTNC4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C5");
@@ -2406,6 +2447,7 @@ namespace SinemaOtomasyon
             {
                 BTNC5.BackColor = Color.Red;
                 BTNC5.ForeColor = Color.White;
+                BTNC5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C6");
@@ -2418,6 +2460,7 @@ namespace SinemaOtomasyon
             {
                 BTNC6.BackColor = Color.Red;
                 BTNC6.ForeColor = Color.White;
+                BTNC6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C7");
@@ -2430,6 +2473,7 @@ namespace SinemaOtomasyon
             {
                 BTNC7.BackColor = Color.Red;
                 BTNC7.ForeColor = Color.White;
+                BTNC7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C8");
@@ -2442,6 +2486,7 @@ namespace SinemaOtomasyon
             {
                 BTNC8.BackColor = Color.Red;
                 BTNC8.ForeColor = Color.White;
+                BTNC8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D1");
@@ -2454,6 +2499,7 @@ namespace SinemaOtomasyon
             {
                 BTND1.BackColor = Color.Red;
                 BTND1.ForeColor = Color.White;
+                BTND1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D2");
@@ -2466,6 +2512,7 @@ namespace SinemaOtomasyon
             {
                 BTND2.BackColor = Color.Red;
                 BTND2.ForeColor = Color.White;
+                BTND2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D3");
@@ -2478,6 +2525,7 @@ namespace SinemaOtomasyon
             {
                 BTND3.BackColor = Color.Red;
                 BTND3.ForeColor = Color.White;
+                BTND3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D4");
@@ -2490,6 +2538,7 @@ namespace SinemaOtomasyon
             {
                 BTND4.BackColor = Color.Red;
                 BTND4.ForeColor = Color.White;
+                BTND4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D5");
@@ -2502,6 +2551,7 @@ namespace SinemaOtomasyon
             {
                 BTND5.BackColor = Color.Red;
                 BTND5.ForeColor = Color.White;
+                BTND5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D6");
@@ -2514,6 +2564,7 @@ namespace SinemaOtomasyon
             {
                 BTND6.BackColor = Color.Red;
                 BTND6.ForeColor = Color.White;
+                BTND6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D7");
@@ -2526,6 +2577,7 @@ namespace SinemaOtomasyon
             {
                 BTND7.BackColor = Color.Red;
                 BTND7.ForeColor = Color.White;
+                BTND7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D8");
@@ -2538,6 +2590,7 @@ namespace SinemaOtomasyon
             {
                 BTND8.BackColor = Color.Red;
                 BTND8.ForeColor = Color.White;
+                BTND8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
 
@@ -2562,6 +2615,7 @@ namespace SinemaOtomasyon
             {
                 BTNA1.BackColor = Color.Red;
                 BTNA1.ForeColor = Color.White;
+                BTNA1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A2");
@@ -2574,6 +2628,7 @@ namespace SinemaOtomasyon
             {
                 BTNA2.BackColor = Color.Red;
                 BTNA2.ForeColor = Color.White;
+                BTNA2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -2587,6 +2642,7 @@ namespace SinemaOtomasyon
             {
                 BTNA3.BackColor = Color.Red;
                 BTNA3.ForeColor = Color.White;
+                BTNA3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.Clear();
@@ -2600,6 +2656,7 @@ namespace SinemaOtomasyon
             {
                 BTNA4.BackColor = Color.Red;
                 BTNA4.ForeColor = Color.White;
+                BTNA4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A5");
@@ -2612,6 +2669,7 @@ namespace SinemaOtomasyon
             {
                 BTNA5.BackColor = Color.Red;
                 BTNA5.ForeColor = Color.White;
+                BTNA5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A6");
@@ -2624,6 +2682,7 @@ namespace SinemaOtomasyon
             {
                 BTNA6.BackColor = Color.Red;
                 BTNA6.ForeColor = Color.White;
+                BTNA6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A7");
@@ -2636,6 +2695,7 @@ namespace SinemaOtomasyon
             {
                 BTNA7.BackColor = Color.Red;
                 BTNA7.ForeColor = Color.White;
+                BTNA7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "A8");
@@ -2648,6 +2708,7 @@ namespace SinemaOtomasyon
             {
                 BTNA8.BackColor = Color.Red;
                 BTNA8.ForeColor = Color.White;
+                BTNA8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B1");
@@ -2660,6 +2721,7 @@ namespace SinemaOtomasyon
             {
                 BTNB1.BackColor = Color.Red;
                 BTNB1.ForeColor = Color.White;
+                BTNB1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B2");
@@ -2672,6 +2734,7 @@ namespace SinemaOtomasyon
             {
                 BTNB2.BackColor = Color.Red;
                 BTNB2.ForeColor = Color.White;
+                BTNB2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B3");
@@ -2684,6 +2747,7 @@ namespace SinemaOtomasyon
             {
                 BTNB3.BackColor = Color.Red;
                 BTNB3.ForeColor = Color.White;
+                BTNB3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B4");
@@ -2696,6 +2760,7 @@ namespace SinemaOtomasyon
             {
                 BTNB4.BackColor = Color.Red;
                 BTNB4.ForeColor = Color.White;
+                BTNB4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B5");
@@ -2708,6 +2773,7 @@ namespace SinemaOtomasyon
             {
                 BTNB5.BackColor = Color.Red;
                 BTNB5.ForeColor = Color.White;
+                BTNB5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B6");
@@ -2720,6 +2786,7 @@ namespace SinemaOtomasyon
             {
                 BTNB6.BackColor = Color.Red;
                 BTNB6.ForeColor = Color.White;
+                BTNB6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B7");
@@ -2732,6 +2799,7 @@ namespace SinemaOtomasyon
             {
                 BTNB7.BackColor = Color.Red;
                 BTNB7.ForeColor = Color.White;
+                BTNB7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
@@ -2744,18 +2812,7 @@ namespace SinemaOtomasyon
             {
                 BTNB8.BackColor = Color.Red;
                 BTNB8.ForeColor = Color.White;
-            }
-            koltuk_Var_Mi1.Parameters.Clear();
-            koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "B8");
-            koltuk_Var_Mi1.Parameters.AddWithValue("@bs", radioButton4.Text);
-            koltuk_Var_Mi1.Parameters.AddWithValue("@ba", bunifuDropdown1.Text);
-            filmVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            koltukVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            saatVarMi = (int)koltuk_Var_Mi1.ExecuteScalar();
-            if (koltukVarMi > 0 && saatVarMi > 0 && filmVarMi > 0)
-            {
-                BTNB8.BackColor = Color.Red;
-                BTNB8.ForeColor = Color.White;
+                BTNB8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C1");
@@ -2768,6 +2825,7 @@ namespace SinemaOtomasyon
             {
                 BTNC1.BackColor = Color.Red;
                 BTNC1.ForeColor = Color.White;
+                BTNC1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C2");
@@ -2780,6 +2838,7 @@ namespace SinemaOtomasyon
             {
                 BTNC2.BackColor = Color.Red;
                 BTNC2.ForeColor = Color.White;
+                BTNC2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C3");
@@ -2792,6 +2851,7 @@ namespace SinemaOtomasyon
             {
                 BTNC3.BackColor = Color.Red;
                 BTNC3.ForeColor = Color.White;
+                BTNC3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C4");
@@ -2804,6 +2864,7 @@ namespace SinemaOtomasyon
             {
                 BTNC4.BackColor = Color.Red;
                 BTNC4.ForeColor = Color.White;
+                BTNC4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C5");
@@ -2816,6 +2877,7 @@ namespace SinemaOtomasyon
             {
                 BTNC5.BackColor = Color.Red;
                 BTNC5.ForeColor = Color.White;
+                BTNC5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C6");
@@ -2828,6 +2890,7 @@ namespace SinemaOtomasyon
             {
                 BTNC6.BackColor = Color.Red;
                 BTNC6.ForeColor = Color.White;
+                BTNC6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C7");
@@ -2840,6 +2903,7 @@ namespace SinemaOtomasyon
             {
                 BTNC7.BackColor = Color.Red;
                 BTNC7.ForeColor = Color.White;
+                BTNC7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "C8");
@@ -2852,6 +2916,7 @@ namespace SinemaOtomasyon
             {
                 BTNC8.BackColor = Color.Red;
                 BTNC8.ForeColor = Color.White;
+                BTNC8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D1");
@@ -2864,6 +2929,7 @@ namespace SinemaOtomasyon
             {
                 BTND1.BackColor = Color.Red;
                 BTND1.ForeColor = Color.White;
+                BTND1.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D2");
@@ -2876,6 +2942,7 @@ namespace SinemaOtomasyon
             {
                 BTND2.BackColor = Color.Red;
                 BTND2.ForeColor = Color.White;
+                BTND2.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D3");
@@ -2888,6 +2955,7 @@ namespace SinemaOtomasyon
             {
                 BTND3.BackColor = Color.Red;
                 BTND3.ForeColor = Color.White;
+                BTND3.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D4");
@@ -2900,6 +2968,7 @@ namespace SinemaOtomasyon
             {
                 BTND4.BackColor = Color.Red;
                 BTND4.ForeColor = Color.White;
+                BTND4.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D5");
@@ -2912,6 +2981,7 @@ namespace SinemaOtomasyon
             {
                 BTND5.BackColor = Color.Red;
                 BTND5.ForeColor = Color.White;
+                BTND5.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D6");
@@ -2924,6 +2994,7 @@ namespace SinemaOtomasyon
             {
                 BTND6.BackColor = Color.Red;
                 BTND6.ForeColor = Color.White;
+                BTND6.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D7");
@@ -2936,6 +3007,7 @@ namespace SinemaOtomasyon
             {
                 BTND7.BackColor = Color.Red;
                 BTND7.ForeColor = Color.White;
+                BTND7.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
             koltuk_Var_Mi1.Parameters.AddWithValue("@bk", "D8");
@@ -2948,10 +3020,16 @@ namespace SinemaOtomasyon
             {
                 BTND8.BackColor = Color.Red;
                 BTND8.ForeColor = Color.White;
+                BTND8.Enabled = false;
             }
             koltuk_Var_Mi1.Parameters.Clear();
 
             baglanti.Close();
+        }
+
+        private void bunifuGroupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }
